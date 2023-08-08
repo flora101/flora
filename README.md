@@ -1,4 +1,4 @@
-# Geunyoung Bae🧐
+# Geunyoung Bae 🧐
 
 <div align="center">
  
