@@ -2,6 +2,7 @@
 _ AI, Python, Computer Vision
 
 - Student of Science in Computer Science and Engieering @ Kyungpook National University
+- Google Developer Student Clubs (GDSC) @ Kyungpook National University
 - Intern (AI Developer) @ Electronics and Telecommunications Research Institute
 - Undergraduate research student @ Computer Vision Lab
 
