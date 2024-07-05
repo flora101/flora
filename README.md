@@ -1,8 +1,11 @@
-# Geunyoung Bae 🧐
+## 👩🏻‍💻 About Me _ Geunyoung Bae 
+_AI, Python, Computer Vision
 
-<div align="center">
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flora101&layout=compact)](https://github.com/flora101/github-readme-stats)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=flora8207)](https://solved.ac/flora8207)  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=flora8207)](https://velog.io/@flora8207/posts)
-</div>
+- Student of Science in Computer Science and Engieering @ Kyungpook National University
+- Intern (AI Developer) @ Electronics and Telecommunications Research Institute
+- Undergraduate research student @ Computer Vision Lab
+
+### Nice way to meet me
+- <a href="https://velog.io/@flora8207">Blog</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flora101&layout=compact)]
