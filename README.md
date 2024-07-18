@@ -9,5 +9,3 @@ _ AI, Python, Computer Vision
 
 ### :rabbit: Nice way to meet me
 - <a href="https://velog.io/@flora8207">Blog</a>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flora101&layout=compact)
